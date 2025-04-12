@@ -1,2 +1,2 @@
-# Count-Masters
-Count Masters: Stickman Games is a fast-paced running game where you gather a growing army of stickmen to clash against rival crowds.
+# Test VR Project
+Testing out the Unity VR toolkit.
